@@ -1,0 +1,39 @@
+{
+  "pack": {
+    "min_format": [75, 0],
+    "max_format": [88, 0],
+    "description": ["The classic look of Hypixel SkyBlock"]
+  },
+
+  "meta": {
+    "version": ["v1.0.0", "mc:1.21.11+"],
+    "discord": "https://discord.gg/M7HqWKxDxS",
+    "modrinth": "https://modrinth.com/resourcepack/hypixel-skyblock-classic",
+    "github": "https://github.com/nightlibra/hypixel_skyblock_classic"
+  },
+
+  "overlays": {
+    "entries": [
+      {
+        "directory": "classic",
+        "min_format": [75, 0],
+        "max_format": [88, 0]
+      },
+      {
+        "directory": "vanilla_colors",
+        "min_format": [75, 0],
+        "max_format": [88, 0]
+      },
+      {
+        "directory": "vanilla_font",
+        "min_format": [75, 0],
+        "max_format": [88, 0]
+      },
+      {
+        "directory": "vanilla_tooltips",
+        "min_format": [75, 0],
+        "max_format": [88, 0]
+      }
+    ]
+  }
+}

@@ -6,7 +6,7 @@ This resource pack returns [Hypixel SkyBlock](https://hypixelskyblock.wiki) to i
 ## Included
 | Feature | Description |
 |---------|-------------|
-| Classic Items | A mix of vanilla Minecraft textures and custom player head art. |
+| Classic Items | A mix of vanilla Minecraft textures and player head art. |
 | Vanilla Colors | The vanilla Minecraft text colors. |
 | Vanilla Tooltips | The vanilla Minecraft tooltip textures. |
 | Vanilla Font | The vanilla Minecraft font glyphs. |

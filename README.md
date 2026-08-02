@@ -1,7 +1,7 @@
 # Hypixel SkyBlock Classic
 The classic look of Hypixel SkyBlock.
 
-This resource pack returns [Hypixel SkyBlock](https://hypixelskyblock.wiki) to its original look and feel. If you want a continuation of the legacy art direction, see [Hypixel SkyBlock Legacy](https://modrinth.com/resourcepack/hypixel-skyblock-legacy).
+This resource pack returns [Hypixel SkyBlock](https://hypixelskyblock.wiki) to its original look and feel. If you want a continuation of the legacy art direction, see [Hypixel SkyBlock Legacy](https://github.com/nightlibra/hypixel_skyblock_legacy).
 
 ## Included
 | Feature | Description |

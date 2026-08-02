@@ -7,6 +7,7 @@ This resource pack returns [Hypixel SkyBlock](https://hypixelskyblock.wiki) to i
 | Feature | Description |
 |---------|-------------|
 | Classic Items | A mix of vanilla Minecraft textures and player head art. |
+| Legacy Soundtracks | Return legacy soundtracks. |
 | Vanilla Colors | The vanilla Minecraft text colors. |
 | Vanilla Tooltips | The vanilla Minecraft tooltip textures. |
 | Vanilla Font | The vanilla Minecraft font glyphs. |
